@@ -15,14 +15,14 @@ IMPORTANT NOTE: as KyranRana's dependency is actually not maintained anymore (ht
 
 Bypass Cloudflare DDoS protection - Please use it carefully
 
-This package is based on [KyranRana's cloudflare-bypass](https://github.com/KyranRana/cloudflare-bypass).
+This package is based on [KyranRana's cloudflare-bypass](https://github.com/YiMSIT54/cloudflare-bypass).
 
 Installation
 ------------
 Using `composer`
 
 ```bash 
-composer require jaymoulin/guzzlehttp-cloudflare
+composer require YiMSIT54/guzzlehttp-cloudflare
 ```
 
 Usage
